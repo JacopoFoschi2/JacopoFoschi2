@@ -1,4 +1,4 @@
-# Jacopo Foschi
+## Jacopo Foschi
 
 I'm a student currently enrolled in the University of Bologna studying [Computer Systems Technologies](https://corsi.unibo.it/1cycle/ComputerSystemTechnologies).
 
